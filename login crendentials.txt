@@ -1,0 +1,16 @@
+Event Management System in Java
+
+          Admin Login
+username		password
+
+admin			admin123
+
+          Manager Login
+username		password
+
+manager			manager123
+
+This Event management system is brought to you by mahnoorbani.github projects.
+Feel free to use it and remember don't try to upload it on any other websites. This may land you in legal trouble.
+
+But you can use it for your assignment and coursework submissions.
